@@ -1,2 +1,6 @@
+*.aux
+*.log
+*.out
+*.pdf
 __pycache__
 test.png
